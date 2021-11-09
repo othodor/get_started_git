@@ -1,8 +1,8 @@
 def hello(prenom):
     if prenom == "Sofiane":
-        return "Hello Sofiane"
+        return f"je m'appelle {prenom}"
     elif prenom == "Othmane":
-        return "Hello Othmane"
-    else:
+        return f"je m'appelle {prenom}"
+    else: 
         return "je ne vous connais pas"
 
